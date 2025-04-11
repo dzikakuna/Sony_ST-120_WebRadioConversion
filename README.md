@@ -1,10 +1,10 @@
+# Sony ST-120 Tuner Conversion to Web Radio
+
 <p align="center">
   <img src="Photos\Sony_3.png" title="Sony_1">
   <img src="Photos\Sony_2.png" title="Sony_2">
   <img src="Photos\Sony_1.png" title="Sony_1">
 </p>
-
-# Sony ST-120 Tuner Conversion to Web Radio
 
 ## Overview
 
